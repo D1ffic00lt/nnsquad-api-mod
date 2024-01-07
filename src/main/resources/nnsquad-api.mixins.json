@@ -1,0 +1,10 @@
+{
+	"required": false,
+	"package": "d1ffic00lt.nnsquadapi.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

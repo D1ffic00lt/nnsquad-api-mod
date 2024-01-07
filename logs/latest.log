@@ -1,0 +1,16 @@
+[05:15:26] [main/INFO]: START RUNNING
+[05:15:27] [main/INFO]: Starting NNSquadApi using Java 19.0.1 with PID 41812 (/Users/d1ffic00lt/Downloads/nnsquad-api-template-1.20.1/build/classes/java/main started by d1ffic00lt in /Users/d1ffic00lt/Downloads/nnsquad-api-template-1.20.1)
+[05:15:27] [main/INFO]: No active profile set, falling back to 1 default profile: "default"
+[05:15:27] [main/INFO]: Tomcat initialized with port 18577 (http)
+[05:15:27] [main/INFO]: Initializing ProtocolHandler ["http-nio-0.0.0.0-18577"]
+[05:15:27] [main/INFO]: Starting service [Tomcat]
+[05:15:27] [main/INFO]: Starting Servlet engine: [Apache Tomcat/10.1.19]
+[05:15:27] [main/INFO]: Initializing Spring embedded WebApplicationContext
+[05:15:27] [main/INFO]: Root WebApplicationContext: initialization completed in 473 ms
+[05:15:27] [main/INFO]: Starting ProtocolHandler ["http-nio-0.0.0.0-18577"]
+[05:15:27] [main/INFO]: Tomcat started on port 18577 (http) with context path ''
+[05:15:27] [main/INFO]: Started NNSquadApi in 0.945 seconds (process running for 1.493)
+[05:15:27] [main/INFO]: RUNNING STOPPED
+[05:15:37] [http-nio-0.0.0.0-18577-exec-1/INFO]: Initializing Spring DispatcherServlet 'dispatcherServlet'
+[05:15:37] [http-nio-0.0.0.0-18577-exec-1/INFO]: Initializing Servlet 'dispatcherServlet'
+[05:15:37] [http-nio-0.0.0.0-18577-exec-1/INFO]: Completed initialization in 2 ms
